@@ -1,1 +1,0 @@
-Redoing Example for demonstration
